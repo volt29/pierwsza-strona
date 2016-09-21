@@ -108,6 +108,10 @@ header {
     text-align: center;
     text-transform: uppercase;   
 }
+.features-container {
+	padding-left: 14px;
+	padding-right: 14px;
+}
 .fa-features {
     font-size: 100px;
     background: #252c41;
