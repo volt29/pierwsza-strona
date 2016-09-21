@@ -336,15 +336,14 @@ header {
 .google {
     width: 200px;
     height: 86px;
-    float: left;
+    float: right;
     margin-top: -3px;
     margin-left: -16px;
 }
 .apple {
     width: 200px;
-    float: right;
+    float: left;
     margin-top: 10px;
-    margin-left: -16px;
 }
 
 /*--SECTION DIGITS--*/
@@ -721,14 +720,14 @@ header {
         margin-right: auto;
         height: auto;
         width: 100%;
-        padding: 0 160px;
     }
     .apple {
         margin-left: auto;
         margin-right: auto;
         height: auto;
         width: 100%;
-        padding: 0 180px;
+		padding: 0 18px;
+
     }
     /*Contact*/
     .footer {
@@ -753,4 +752,7 @@ header {
     .col-m-10 {width: 83.33%;}
     .col-m-11 {width: 91.66%;}
     .col-m-12 {width: 100%;}
+}
+	.footer p {
+		font-size: 19px;
 }
