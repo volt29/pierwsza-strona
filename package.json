@@ -1,0 +1,27 @@
+{
+  "name": "pierwsza-strona",
+  "version": "1.0.0",
+  "description": "pierwsza-strona-grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "pierwsza-strona-grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volt29/pierwsza-strona.git"
+  },
+  "keywords": [
+    "pierwsza-strona-grunt-kodilla"
+  ],
+  "author": "Maciej Samoraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volt29/pierwsza-strona/issues"
+  },
+  "homepage": "https://github.com/volt29/pierwsza-strona#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-sass": "^1.2.1"
+  }
+}
