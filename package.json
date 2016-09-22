@@ -20,8 +20,11 @@
   },
   "homepage": "https://github.com/volt29/pierwsza-strona#readme",
   "devDependencies": {
+    "browser-sync": "^2.16.0",
     "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
     "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^1.2.1"
   }
 }
